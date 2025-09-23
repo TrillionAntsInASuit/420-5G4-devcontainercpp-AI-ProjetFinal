@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/DEVCONTAINERCPP/libTableau/libTableau.cpp
+iostream
+-
+
+/workspaces/DEVCONTAINERCPP/libTableau/libTableau.h
+
+/workspaces/DEVCONTAINERCPP/libTableau/main.cpp
+iostream
+-
+libTableau.h
+/workspaces/DEVCONTAINERCPP/libTableau/libTableau.h
+

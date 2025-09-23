@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/DEVCONTAINERCPP/libfonction/fonctions.cpp
+iostream
+-
+libfonctions.h
+/workspaces/DEVCONTAINERCPP/libfonction/libfonctions.h
+
+/workspaces/DEVCONTAINERCPP/libfonction/libfonctions.cpp
+iostream
+-
+
+/workspaces/DEVCONTAINERCPP/libfonction/libfonctions.h
+

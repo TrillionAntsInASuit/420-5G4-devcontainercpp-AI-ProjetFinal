@@ -1,0 +1,3 @@
+/workspaces/DEVCONTAINERCPP/libTableau/build/CMakeFiles/rebuild_cache.dir
+/workspaces/DEVCONTAINERCPP/libTableau/build/CMakeFiles/edit_cache.dir
+/workspaces/DEVCONTAINERCPP/libTableau/build/CMakeFiles/libTableau.dir

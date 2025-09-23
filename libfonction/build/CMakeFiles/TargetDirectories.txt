@@ -1,0 +1,3 @@
+/workspaces/DEVCONTAINERCPP/libfonction/build/CMakeFiles/rebuild_cache.dir
+/workspaces/DEVCONTAINERCPP/libfonction/build/CMakeFiles/edit_cache.dir
+/workspaces/DEVCONTAINERCPP/libfonction/build/CMakeFiles/libfonctions.dir
