@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/DEVCONTAINERCPP/listeChainee/libListeChainee/libListeChainee.cpp
+iostream
+-
+
+/workspaces/DEVCONTAINERCPP/listeChainee/libListeChainee/libListeChainee.h
+
+/workspaces/DEVCONTAINERCPP/listeChainee/libListeChainee/main.cpp
+iostream
+-
+libListeChainee.h
+/workspaces/DEVCONTAINERCPP/listeChainee/libListeChainee/libListeChainee.h
+

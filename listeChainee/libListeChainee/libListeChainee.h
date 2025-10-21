@@ -1,0 +1,10 @@
+class Noeud;
+void ajouterDebut(Noeud*& tete, int valeur);
+void afficherListe(Noeud* tete);
+void ajouterFin(Noeud*& tete, int valeur);
+bool rechercher(Noeud* tete, int valeur);
+int obtenirPosition(Noeud* tete, int valeur);
+bool supprimerElement(Noeud*& tete, int valeur);
+int compterElements(Noeud* tete);
+void viderListe(Noeud*& tete);
+void inverserListe(Noeud*& tete);

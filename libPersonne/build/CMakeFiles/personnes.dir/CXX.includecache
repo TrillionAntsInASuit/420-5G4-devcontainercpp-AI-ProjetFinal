@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/DEVCONTAINERCPP/libPersonne/Personne.cpp
+Personne.h
+/workspaces/DEVCONTAINERCPP/libPersonne/Personne.h
+iostream
+-
+
+/workspaces/DEVCONTAINERCPP/libPersonne/Personne.h
+string
+-
+
+/workspaces/DEVCONTAINERCPP/libPersonne/main.cpp
+Personne.h
+/workspaces/DEVCONTAINERCPP/libPersonne/Personne.h
+
